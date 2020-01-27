@@ -10,8 +10,9 @@ WS 2018/2019
 ## Description
 This is an integration of YOLO object detection with SORT tracking algorithm modified for pedestrian detection and tracking applied to the JAAD dataset.
 <object data="Functional_Architecture.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Functional_Architecture.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/JulianKu/Pedestrian-Detection-and-Tracking/blob/master/Functional_Architecture.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JulianKu/Pedestrian-Detection-and-Tracking/blob/master/Functional_Architecture.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
